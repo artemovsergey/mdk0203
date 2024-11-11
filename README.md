@@ -1,2 +1,1 @@
-# Математическое моделирование
-https://scipython.com/
+# mdk0203_practices25ip214
