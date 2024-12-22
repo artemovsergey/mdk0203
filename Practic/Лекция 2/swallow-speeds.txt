@@ -1,0 +1,24 @@
+# swallow-speeds.txt
+# Airspeed velocities of unladen African swallow (m.s-1)
+# Invalid data is indicated by #
+
+10.1
+12.1
+9.8
+8.9
+10.3
+9.2
+9.6
+9.2
+10.1
+11.7
+12.0
+10.0
+99.9 #
+8.8
+11.9
+12.0
+0.0 #
+9.9
+9.8
+10.2
